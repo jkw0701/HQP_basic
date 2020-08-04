@@ -1,6 +1,6 @@
 # HQP_basic
 * This project is the whole-body controller for non-holonomic mobile manipulator.
-* This is based on Hierarchical Quadratic Programming(HQP) with continuous task transition approach.
+* This is based on Hierarchical Quadratic Programming(HQP).
 * This is developed for Ubuntu 16.04.
 
 ## Related Works
