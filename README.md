@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HQP_DualArmMobile
 Robostar robot controller for using HQP and task-transition algorithm
 
@@ -23,3 +24,6 @@ DoF: the number of Joint
 
 author: ggory15@snu.ac.kr
 
+=======
+# HQP_basic
+>>>>>>> 1ccbc48062b709a918b19831814cebd859fd6c39
